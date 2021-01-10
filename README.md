@@ -18,6 +18,9 @@ Who was supported this bot
 # COMMAND INFO
 Prefix for global is `L!`, you can change it everything you want
 
+# UPDATE v0.3.0
+- giveaway system
+
 # UPDATE
 Bot version is now `v0.2.5`
 This update:
@@ -25,3 +28,4 @@ This update:
 - Welcome and Leave
 - Auto assign role when somoene join
 - Leveling system
+
