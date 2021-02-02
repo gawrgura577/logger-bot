@@ -1,0 +1,25 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "Make it by Gura Gura#0004",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Gura Gura#0004",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "axios": "^0.21.1",
+    "common-tags": "^1.8.0",
+    "dbd.js": "^1.9.4",
+    "mathjs": "^9.1.0",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.6.1",
+    "node-os-utils": "^1.3.2",
+    "snekfetch": "^4.0.4"
+  }
+}
