@@ -12,7 +12,7 @@ app.listen(3000, () => {
 const discord = require("discord.js")
 const client = new discord.Client()
 const bot = new dbd.Bot({
-    token: "Nzg3NDg0ODMwNTg1MDYxNDE5.X9VoZg.5zL-P47eYNmmH_FDkOyS5rjZFG4",
+    token: "TOKEN_BOT",
     
     prefix: ["$getServerVar[prefix]", "kanna", "<@$clientID>", "<@!$clientID>", "Kanna"],
 })
